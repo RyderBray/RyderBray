@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @RyderBray
+- 👀 I’m interested in Front End Developement
+- 🌱 I’m currently learning HTML, CSS, and Javascript
